@@ -70,7 +70,7 @@
     "vue-i18n": "^8.27.2",
     "vue-router": "^3.5.1",
     "vue-smooth-dnd": "^0.8.1",
-    "vuetify": "^2.6.9",
+    "vuetify": "^3.0.0",
     "vuex": "^3.6.2",
     "vuex-map-fields": "^1.4.1",
     "watcher": "^1.2.0",
