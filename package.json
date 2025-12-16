@@ -63,7 +63,7 @@
     "qrcode": "^1.5.1",
     "readdirp": "^3.6.0",
     "serve-index": "^1.9.1",
-    "systeminformation": "^5.12.6",
+    "systeminformation": "^5.27.14",
     "through2": "^4.0.2",
     "trammel": "^5.0.0",
     "vue": "^2.6.12",
