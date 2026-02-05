@@ -52,7 +52,7 @@
     "get-port": "^5.1.1",
     "hash-wasm": "^4.9.0",
     "idle-js": "^1.2.0",
-    "katex": "^0.16.2",
+    "katex": "^0.16.21",
     "micromatch": "^4.0.5",
     "mime-types": "^2.1.35",
     "mousetrap": "^1.6.5",
